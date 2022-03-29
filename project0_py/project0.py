@@ -22,8 +22,8 @@ def f(a, b):
 		c (float): result
 	'''
 
-	## Your code goes here
+	
 
-	##
+	c = a + b
 
 	return c
